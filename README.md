@@ -43,7 +43,6 @@ Emotion_app/
 
 ## Installation & Run (Step-by-Step)
 
-### 
 1️⃣ Create and activate virtual environment
 **Windows:**
 ```bash
